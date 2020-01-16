@@ -1,3 +1,2 @@
-hi, this is real world.
-Hi, This is second commit.
-Hi, this is fouth commit.
+#!/bin/bash
+yum update all -y
